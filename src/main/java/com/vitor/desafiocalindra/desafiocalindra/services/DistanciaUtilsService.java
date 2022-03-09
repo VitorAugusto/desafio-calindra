@@ -9,14 +9,17 @@ import java.util.List;
 @Service
 public class DistanciaUtilsService {
 
-
     //CALCULA A DISTÂNCIA EUCLIDIANA ENTRE 2 COORDENADAS.
     //X1, Y1  = Endereço 1
     //X2, Y2  = Endereço 2
     public double calcularDistanciaEntre2Pontos(double x1, double y1, double x2, double y2) {
 
         double distance = Math.hypot(x1-x2, y1-y2);
-        return distance;
+
+        String distanceFormatada = String.format("%.4f",distance).replace(",", ".");
+
+        Double distanciaFormatadaDouble = Double.valueOf(distanceFormatada);
+        return Double.valueOf(distanciaFormatadaDouble);
     }
 
 
