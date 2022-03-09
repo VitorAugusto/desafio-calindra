@@ -35,7 +35,7 @@ public class MainController {
         return ResponseEntity.ok("Olá, Calindra !");
     }
 
-    @RequestMapping(value = "/get-distancia", method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)
+    @RequestMapping(value = "/get-distancias", method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<String> setEnderecosAndGetDistancias(@RequestBody InputEnderecosModel enderecos){
 
         if (enderecos.getEnderecos().size() < 2) {
