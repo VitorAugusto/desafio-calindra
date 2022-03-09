@@ -40,7 +40,7 @@ public class MainController {
 
         if (enderecos.getEnderecos().size() < 2) {
             return ResponseEntity.badRequest()
-                    .body("É NECESSÁRIO ENVIAR NO MÍNIMO 2 ENDEREÇOS.");
+                    .body("É NECESSÁRIO ENVIAR NO MÍNIMO 2 ENDEREÇOS !");
         }
 
         List<Endereco> listaEnderecos = new ArrayList<>();
