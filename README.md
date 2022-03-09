@@ -11,7 +11,9 @@
  3) Os endereços mais distantes entre si
  4) Os endereços mais próximos entre si
 
+
  `Formato de envio dos Endereços (JSON) :`
+> URL : http://localhost:8080/api/get-distancias
  
  ```
  {
