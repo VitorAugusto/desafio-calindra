@@ -14,7 +14,7 @@ import java.io.IOException;
 public class GoogleService {
 
     static GeoApiContext context = new GeoApiContext.Builder()
-            .apiKey("AIzaSyBt6G2T2Dgb-0gAVu8d-DNBjyhLkaE6Ez4")
+            .apiKey("~~~~")
             .build();
 
 
