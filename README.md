@@ -117,5 +117,8 @@
 }
 ```
 
+## 📝 Regras e Validações
+
+
 
 
