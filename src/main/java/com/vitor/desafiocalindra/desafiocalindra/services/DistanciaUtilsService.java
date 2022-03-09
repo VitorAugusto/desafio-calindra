@@ -45,7 +45,7 @@ public class DistanciaUtilsService {
         };
 
         for (int i = 0; i < listaEnderecos.size(); i++){
-            if(listaEnderecos.get(i).distancia > maiorDistancia.distancia){
+            if(listaEnderecos.get(i).distancia >= maiorDistancia.distancia){
                 maiorDistancia = listaEnderecos.get(i);
             }
         }
