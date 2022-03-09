@@ -13,7 +13,7 @@
 
 
  `Formato de envio dos Endereços (JSON) :`
-> URL : http://localhost:8080/api/get-distancias
+> URL POST: http://localhost:8080/api/get-distancias
  
  ```
  {
