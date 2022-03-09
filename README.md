@@ -119,6 +119,6 @@
 
 ## 📝 Regras e Validações
 
-
-
+1) É necessário enviar no mínimo 2 endereços, caso contrário a aplicação retorna um erro.
+2) Caso o endereço informado não seja encontrado pela API Geocoding, será atribuido a este endereço as informações de latitude e longitude como 0. 
 
