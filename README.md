@@ -134,7 +134,7 @@
     $ cd desafio-calindra
     ```
 
-3. Importar a pasta como projeto Maven.
+3. Importar a pasta como projeto Maven preferencialmente em alguma IDE Java.
 
 4. Construir projeto e rodar.
 
