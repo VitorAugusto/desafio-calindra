@@ -122,3 +122,19 @@
 1) É necessário enviar no mínimo 2 endereços, caso contrário a aplicação retorna um erro.
 2) Caso o endereço informado não seja encontrado pela API Geocoding, será atribuido a este endereço as informações de latitude e longitude como 0. 
 
+## :computer: Como instalar e Utilizar
+
+1. Pre-requisitos<br>
+    `Java 8 instalado - JDK`
+
+2. Clone o Projeto
+
+    ``` Shell
+    $ git clone https://github.com/VitorAugusto/desafio-calindra.git
+    $ cd desafio-calindra
+    ```
+
+3. Importar a pasta como projeto Maven.
+
+4. Construir projeto e rodar.
+
