@@ -32,7 +32,7 @@
 {
     "listaEnderecosRecebidos": [
         {
-            "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ,20090003",
+            "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ, 20090003",
             "latitude": -22.8973551,
             "longitude": -43.1802782
         },
@@ -50,7 +50,7 @@
     "listaEnderecosDistancia": [
         {
             "endereco1": {
-                "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ,20090003",
+                "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ, 20090003",
                 "latitude": -22.8973551,
                 "longitude": -43.1802782
             },
@@ -59,11 +59,11 @@
                 "latitude": -22.9039608,
                 "longitude": -43.1703536
             },
-            "distancia": 0.011921952761606592
+            "distancia": 0.0119
         },
         {
             "endereco1": {
-                "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ,20090003",
+                "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ, 20090003",
                 "latitude": -22.8973551,
                 "longitude": -43.1802782
             },
@@ -72,7 +72,7 @@
                 "latitude": -22.9507471,
                 "longitude": -43.1876543
             },
-            "distancia": 0.05389909568082081
+            "distancia": 0.0539
         },
         {
             "endereco1": {
@@ -85,12 +85,12 @@
                 "latitude": -22.9507471,
                 "longitude": -43.1876543
             },
-            "distancia": 0.04988258301431545
+            "distancia": 0.0499
         }
     ],
     "maiorDistancia": {
         "endereco1": {
-            "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ,20090003",
+            "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ, 20090003",
             "latitude": -22.8973551,
             "longitude": -43.1802782
         },
@@ -99,11 +99,11 @@
             "latitude": -22.9507471,
             "longitude": -43.1876543
         },
-        "distancia": 0.05389909568082081
+        "distancia": 0.0539
     },
     "menorDistancia": {
         "endereco1": {
-            "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ,20090003",
+            "enderecoInput": "Av. Rio Branco, 1 Centro, Rio de Janeiro RJ, 20090003",
             "latitude": -22.8973551,
             "longitude": -43.1802782
         },
@@ -112,7 +112,7 @@
             "latitude": -22.9039608,
             "longitude": -43.1703536
         },
-        "distancia": 0.011921952761606592
+        "distancia": 0.0119
     }
 }
 ```
